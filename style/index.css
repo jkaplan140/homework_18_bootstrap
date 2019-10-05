@@ -1,0 +1,48 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.card{
+    display: inline-block;
+}
+
+.my-footer{
+    background-color: #343A40;
+    width: 100%;
+    color: white;
+    border-radius: 0;
+}
+.my-display{
+    margin-bottom: 40px;
+}
+
+.jumbotron{
+    margin: 40px;
+}
+.view-projects-text{
+    margin: 30px;
+}
+
+.card-title{
+    margin-top: 20px;
+}
+
+.hero-skills{
+    background-color: lightblue;
+}
+
+.my-nav-items{
+    padding-right: 45px;
+    font-size: 25px;
+}
+.my-contact{
+    background-color: lightcoral;
+}
+
+.my-contact-info{
+    font-size: 25px;
+    color: white;
+}
+.hr{
+    color: black;
+}
